@@ -2,7 +2,7 @@ import React, { useState } from "react";
 import YouTube from "react-youtube";
 
 // ⚠️ Dán API Key YouTube Data API v3 vào đây
-const API_KEY = "YOUR_YOUTUBE_API_KEY";
+const API_KEY = "AIzaSyCVZcSjfvOz3kqbkdrTQ9MU3ZbJrKyAv_4";
 
 function KaraokeApp() {
   const [query, setQuery] = useState("");
